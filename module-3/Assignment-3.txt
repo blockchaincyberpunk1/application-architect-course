@@ -1,0 +1,33 @@
+API Design Review
+
+Objective: The objective of this assignment is to enable students to analyze and evaluate API design choices. Students will select a popular web API (e.g., Twitter API, Google Maps API) or a hypothetical API and conduct a critical review. They will assess the API's adherence to RESTful principles or GraphQL and evaluate its ease of use and consistency.
+
+Instructions:
+
+API Design Review:
+
+Select an API: Instruct students to choose a web API for review. They can select from popular APIs like Twitter, Google Maps, or any other API of interest. Alternatively, they may create a hypothetical API with a defined purpose.
+
+Review Criteria: Explain to students that their review should focus on the following aspects:
+
+Adherence to Principles: Assess whether the API follows RESTful principles, GraphQL principles, or any other design approach it claims to implement. Consider aspects such as resource representation, URI structure, HTTP methods, and statelessness.
+
+Ease of Use: Evaluate how easy it is for developers to understand and use the API. Analyze the clarity of documentation, naming conventions, and the simplicity of making requests.
+
+Consistency: Check for consistency in API design. Ensure that similar functionalities or resources are exposed using consistent patterns. Evaluate the use of status codes, error handling, and response formats.
+
+Review Document: Instruct students to create a structured review document. The document should include the following sections:
+
+Introduction: Briefly introduce the selected API and its purpose.
+
+Review Findings: For each aspect mentioned in the review criteria, provide a detailed assessment. Use clear examples or case studies to illustrate your points. Include screenshots, code snippets, or any other relevant visuals.
+
+Recommendations: Offer constructive recommendations for improving the API's design or usability. Suggest potential enhancements or areas where the API could better align with design principles.
+
+Submission: Students should submit their review document as a file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Analysis: The depth of analysis and evaluation of the selected API's design choices.
+Clarity: The clarity, organization, and completeness of the review document.
+Constructive Feedback: The quality and relevance of recommendations provided for improvement.

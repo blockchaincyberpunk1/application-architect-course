@@ -1,0 +1,50 @@
+Design Pattern Analysis
+
+Objective: The objective of this assignment is to study common design patterns used in software development. Students will choose one of the specified design patterns (singleton, factory, observer) or select another design pattern they find interesting. They will be required to explain their chosen design pattern in detail, covering its purpose, structure, and scenarios where it is appropriate to use in software design.
+
+Instructions:
+
+Understanding Design Patterns:
+
+Introduction: Start by introducing the concept of design patterns in software development. Explain that design patterns are reusable solutions to common problems encountered during software design and development.
+
+Design Pattern Selection: Instruct students to choose one of the following design patterns for analysis:
+
+Singleton
+Factory
+Observer
+Strategy Design Pattern
+Decorator Design Pattern
+Common Design Pattern
+Composite Design Pattern
+Adapter Design Pattern
+
+
+OR any other design pattern of their choice (students should specify the chosen pattern).
+Design Pattern Analysis:
+
+Selected Design Pattern: Ask students to provide a detailed explanation of the selected design pattern. This analysis should cover:
+
+a. Purpose: Explain the primary purpose of the design pattern. What problem does it aim to solve in software design?
+
+b. Structure: Describe the key components and structure of the design pattern. Provide diagrams or visual representations if applicable to illustrate its structure.
+
+c. Use Cases: Discuss scenarios or situations where it is appropriate to use the design pattern. Include real-world examples if possible.
+
+d. Benefits: Explain the advantages and benefits of using the design pattern in software development.
+
+e. Drawbacks: Mention any potential drawbacks or limitations of the design pattern, if applicable.
+
+Documentation: Instruct students to document their analysis in a report format. The report should include:
+
+An introduction explaining the purpose of the assignment.
+A detailed analysis of the selected design pattern, covering purpose, structure, use cases, benefits, and drawbacks.
+Real-world examples (if available) demonstrating the application of the design pattern.
+A conclusion summarizing the key takeaways from the analysis.
+Submission: Students should submit their report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding of Design Pattern: The depth of understanding and clarity in explaining the selected design pattern.
+Analysis Quality: The quality of the analysis, including clear explanations, real-world examples, and comprehensive coverage of purpose, structure, use cases, benefits, and drawbacks.
+Documentation Quality: The clarity, organization, and completeness of the report.

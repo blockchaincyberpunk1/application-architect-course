@@ -1,0 +1,39 @@
+Introduction to Infrastructure as Code (IaC)
+
+Objective: The objective of this assignment is to introduce students to the concept of Infrastructure as Code (IaC) and its importance in cloud infrastructure management. Students will explore the definition and benefits of IaC and compare two prominent IaC tools: Terraform and AWS CloudFormation, considering their features, syntax, and use cases.
+
+Instructions:
+
+Part 1: Introduction to Infrastructure as Code (IaC)
+
+Infrastructure as Code (IaC): Start by defining Infrastructure as Code (IaC) and its role in modern cloud infrastructure management. Explain how IaC treats infrastructure provisioning, configuration, and management as code.
+
+Benefits of IaC: Describe the advantages and benefits of implementing IaC in cloud environments. Highlight aspects such as automation, repeatability, version control, and collaboration.
+
+Part 2: Comparison of IaC Tools
+
+Terraform: Introduce Terraform as an IaC tool. Discuss its features, including its declarative language (HCL - HashiCorp Configuration Language), multi-cloud support, and the use of "providers" for different cloud platforms.
+
+AWS CloudFormation: Introduce AWS CloudFormation as another IaC tool, focusing on its tight integration with Amazon Web Services (AWS). Explain the use of JSON or YAML templates for defining cloud resources.
+
+Part 3: Features, Syntax, and Use Cases
+
+Features of Terraform: List and explain key features specific to Terraform, such as its state management, plan and apply workflow, and support for infrastructure as modules. Provide examples of Terraform code snippets to illustrate its syntax.
+
+Features of AWS CloudFormation: Outline features unique to AWS CloudFormation, such as stack creation, stack updates, and resource dependencies. Include AWS-specific resource types and intrinsic functions. Offer AWS CloudFormation template examples.
+
+Syntax Comparison: Compare the syntax of Terraform and AWS CloudFormation templates. Highlight any significant differences, such as the structure of resource definitions, variable declarations, and referencing.
+
+Use Cases: Discuss the typical use cases where Terraform is preferred over AWS CloudFormation and vice versa. Consider factors like multi-cloud support, existing infrastructure, and team familiarity.
+
+Conclusion:
+
+Summary: Summarize the key takeaways from the assignment, emphasizing the definition and benefits of Infrastructure as Code (IaC), and the comparative features, syntax, and use cases of Terraform and AWS CloudFormation.
+
+Submission: Students should submit their Infrastructure as Code (IaC) Introduction assignment as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated regarding Infrastructure as Code (IaC) and its benefits.
+Tool Comparison: The quality of the comparison between Terraform and AWS CloudFormation, including features, syntax, and use cases.
+Clarity: The clarity and organization of the assignment in presenting information about IaC and the two tools.

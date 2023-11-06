@@ -1,0 +1,35 @@
+Common Security Vulnerabilities
+
+Objective: The objective of this assignment is to educate students about common security vulnerabilities that can threaten software applications. Students will choose one security vulnerability (e.g., Cross-Site Scripting, CSRF, SQL Injection), explain how it works, and discuss best practices and techniques for protecting against it. Understanding these vulnerabilities and their mitigations is vital for architects to design secure systems.
+
+Instructions:
+
+Select a Common Security Vulnerability:
+
+Choose a Vulnerability: Select one common security vulnerability from the following list or propose another with instructor approval:
+Cross-Site Scripting (XSS)
+Cross-Site Request Forgery (CSRF)
+SQL Injection
+Clickjacking
+Insecure Deserialization
+Security Misconfiguration
+Understanding the Vulnerability:
+
+Explanation: Provide a detailed explanation of the chosen vulnerability. Explain how it works, what kind of threat it poses to software applications, and what an attacker can achieve through it. Use examples or scenarios to illustrate the impact.
+Protecting Against the Vulnerability:
+
+Best Practices: Describe best practices and techniques for protecting against the chosen vulnerability. Discuss preventive measures, coding practices, and security controls that architects and developers should implement to mitigate the risk.
+Real-World Application:
+
+Application: Present a hypothetical real-world scenario where the chosen vulnerability could be exploited in an application (e.g., a social media platform or an e-commerce website). Describe how you would apply the protection techniques discussed earlier to safeguard the application against this vulnerability.
+Conclusion:
+
+Summary: Summarize the key points discussed in the assignment, emphasizing the significance of understanding and protecting against common security vulnerabilities in software applications.
+
+Submission: Students should submit their analysis of the chosen security vulnerability as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated regarding the chosen security vulnerability and its potential risks.
+Clarity: The clarity and organization of the document, including a clear explanation of the vulnerability and protection techniques.
+Application: The ability to apply knowledge to a real-world scenario and propose effective protection measures.

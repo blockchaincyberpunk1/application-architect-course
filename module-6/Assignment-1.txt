@@ -1,0 +1,31 @@
+Security Considerations
+
+Objective: The objective of this assignment is to emphasize the critical importance of security in software development. Students will gain an understanding of the consequences of security breaches and identify and discuss three common security vulnerabilities or threats that software applications may encounter. This assignment serves as the foundation for the course's security-focused modules.
+
+Instructions:
+
+Introduction to Software Security:
+
+Significance of Security: Begin by explaining why security is of paramount importance in software applications. Discuss how security breaches can lead to financial losses, data theft, damage to reputation, and legal consequences.
+Common Security Vulnerabilities:
+
+SQL Injection: Describe SQL injection attacks, where malicious SQL queries are injected into application input fields, potentially leading to unauthorized access to databases or data manipulation. Provide examples and discuss prevention measures.
+
+Cross-Site Scripting (XSS): Explain cross-site scripting vulnerabilities, which allow attackers to inject malicious scripts into web pages viewed by other users. Discuss the impact of XSS attacks and mitigation strategies.
+
+Data Breaches: Discuss data breaches and their potential consequences, such as the exposure of sensitive user data. Explain how breaches can occur due to vulnerabilities in authentication, authorization, or inadequate data encryption.
+
+Other Security Threats (Optional):
+
+Discuss an optional security threat such as Cross-Site Request Forgery (CSRF), Distributed Denial of Service (DDoS) attacks, or inadequate session management. Explain its nature, consequences, and prevention measures.
+Conclusion:
+
+Summary: Summarize the key takeaways from the assignment, highlighting the critical role of security in software development and the potential risks associated with common security vulnerabilities.
+
+Submission: Students should submit their analysis of security considerations as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated regarding the significance of security in software applications and the potential consequences of security breaches.
+Clarity: The clarity and organization of the document, including clear explanations of common security vulnerabilities and their impact.
+Relevance: The relevance of the discussed security vulnerabilities or threats to real-world software development.

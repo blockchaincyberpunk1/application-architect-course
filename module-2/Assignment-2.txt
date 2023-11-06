@@ -1,0 +1,41 @@
+DRY and KISS Principles in Code
+
+Objective: The objective of this assignment is to explore the DRY (Don't Repeat Yourself) and KISS (Keep It Simple, Stupid) design principles in software development. Students are required to describe these principles in detail and explain their significance. They will then review a selected codebase (which can be an open-source project) to identify instances where these principles are applied effectively and provide recommendations for improvement where applicable.
+
+Instructions:
+
+Understanding DRY and KISS Principles:
+
+Introduction: Start by introducing the concepts of the DRY (Don't Repeat Yourself) and KISS (Keep It Simple, Stupid) principles in software development. Explain that these principles are essential for writing clean, maintainable, and efficient code.
+
+DRY Principle: Explain what the DRY principle is, emphasizing that it encourages developers to avoid duplicating code. Discuss the importance of code reusability and maintaining a single source of truth.
+
+KISS Principle: Explain the KISS principle and its emphasis on simplicity. Describe how keeping code simple reduces complexity, making it easier to understand, debug, and maintain.
+
+Codebase Review:
+
+Codebase Selection: Instruct students to select a codebase for review. It can be an open-source project or an existing codebase they have access to. They should provide the name and URL of the project or repository.
+
+Review Process: Guide students through the review process:
+
+a. DRY Principle Review: Ask students to analyze the codebase and identify instances where the DRY principle is applied effectively. They should provide specific examples and explain how the code demonstrates DRY.
+
+b. KISS Principle Review: Instruct students to identify areas where the KISS principle is followed well in the codebase. Encourage them to provide examples and elaborate on why simplicity is achieved in those cases.
+
+c. Areas for Improvement: Have students pinpoint sections of the codebase where DRY and KISS principles could be improved. They should explain why these sections might benefit from enhancements and provide recommendations for doing so.
+
+Documentation: Ask students to document their findings and recommendations in a report format. The report should include:
+
+An introduction explaining the purpose of the assignment.
+Detailed explanations of the DRY and KISS principles.
+A summary of instances where the codebase follows these principles effectively.
+Descriptions of areas where improvements are needed and their recommendations.
+A conclusion summarizing the key takeaways from the review.
+Submission: Students should submit their report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding of DRY and KISS Principles: The depth of understanding and clarity in explaining the DRY and KISS principles.
+Codebase Review: The effectiveness of the codebase review, including the identification of instances where the principles are applied effectively and areas for improvement.
+Recommendations: The quality and relevance of recommendations provided for improving code adherence to DRY and KISS principles.
+Documentation Quality: The clarity, organization, and completeness of the report.

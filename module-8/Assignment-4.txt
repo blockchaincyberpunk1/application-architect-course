@@ -1,0 +1,36 @@
+Infrastructure as Code (IaC) Script Development
+
+Objective: The objective of this assignment is to give students hands-on experience in writing Infrastructure as Code (IaC) scripts for cloud infrastructure provisioning. Students will choose one of the IaC tools studied (e.g., Terraform, AWS CloudFormation) and develop a simple IaC script that provisions a cloud resource (e.g., a virtual machine) on a cloud service provider of their choice. The assignment aims to reinforce the practical application of IaC concepts.
+
+Instructions:
+
+Part 1: Tool Selection and Cloud Provider
+
+Tool Selection: Choose one of the Infrastructure as Code (IaC) tools studied in the course (e.g., Terraform, AWS CloudFormation) to complete this assignment. Clearly state your choice in the assignment document.
+
+Cloud Provider: Select a cloud service provider (e.g., AWS, Azure, Google Cloud) on which you will provision a cloud resource using your IaC script.
+
+Part 2: IaC Script Development
+
+Resource Selection: Decide what type of cloud resource you want to provision (e.g., a virtual machine, a database, a storage bucket). Provide a brief rationale for your choice.
+
+Script Development: Develop a simple IaC script using your chosen IaC tool to provision the selected cloud resource. Include all necessary configurations and dependencies within your script.
+
+Configuration Parameters: If your IaC tool supports it, use variables or parameters for essential configurations (e.g., instance size, region) to make your script reusable and adaptable.
+
+Comments and Documentation: Add comments and documentation within your IaC script to explain its purpose, resource definitions, and any notable configurations.
+
+Part 3: Execution and Testing
+
+Execution Instructions: Provide clear instructions on how to execute your IaC script to provision the cloud resource. Include any prerequisites, such as installing the IaC tool or configuring cloud provider credentials.
+
+Testing: After provisioning, verify that the cloud resource is successfully created. If applicable, include commands or steps to check the resource's status or availability.
+
+Part 4: Submission and Evaluation
+
+Submission: Students should submit their IaC Script Development assignment, including the IaC script and relevant documentation, as a compressed archive (e.g., .zip) by [Due Date] at [Due Time].
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Script Quality: The quality and correctness of the IaC script, including proper configuration, dependencies, and documentation.
+Clarity: The clarity and completeness of instructions for executing the script and verifying the provisioned resource.
+Resource Selection: The rationale behind the choice of the cloud resource and its suitability for the assignment.

@@ -1,0 +1,55 @@
+Architecture Case Study Analysis
+
+Objective: The objective of this assignment is to apply the knowledge of architecture styles and principles to a real-world case study. Students will select a case study of a software application (e.g., a popular web service, a mobile app) and analyze its architecture. They should identify the architecture style used and discuss how well it aligns with scalability and maintainability principles.
+
+Instructions:
+
+Architecture Case Study Analysis:
+
+Concept Introduction: Begin by introducing the concept of architecture case study analysis. Explain that the assignment aims to apply the knowledge of architecture styles and principles to a real-world software application.
+
+Select a Case Study: Instruct students to select a case study of a software application. They can choose from a wide range of applications, such as popular web services, mobile apps, or enterprise software. Encourage them to pick an application that interests them and is well-documented.
+
+Case Study Introduction: Provide a brief introduction to the selected software application. Students should describe the purpose, features, and significance of the application in the chosen domain.
+
+Architecture Identification: Instruct students to analyze the architecture of the chosen application. They should identify the architecture style used in the application (e.g., monolithic, microservices, serverless) and provide evidence from the available resources (e.g., documentation, articles, architecture diagrams).
+
+Scalability Assessment: Discuss the scalability aspects of the application's architecture. Students should evaluate how well the chosen architecture style aligns with scalability principles. They should consider factors such as load balancing, horizontal and vertical scalability, and the ability to handle increasing workloads.
+
+Maintainability Assessment: Discuss the maintainability aspects of the application's architecture. Students should evaluate how well the chosen architecture style aligns with maintainability principles. They should consider factors such as modularity, separation of concerns, code reusability, documentation, and testing practices.
+
+Analysis and Discussion: Instruct students to analyze their findings and discuss the strengths and weaknesses of the application's architecture in terms of scalability and maintainability. They should provide specific examples and reasoning for their assessments.
+
+Recommendations: Encourage students to propose recommendations or improvements that could enhance the application's scalability and maintainability based on their analysis.
+
+Report Creation: Instruct students to create a detailed report that covers the selected case study, architecture identification, scalability assessment, maintainability assessment, analysis, and recommendations. The report should include the following sections:
+
+Introduction: Provide an introduction to the assignment's objective, the selected case study, and its significance.
+
+Case Study Introduction: Describe the purpose and features of the selected software application.
+
+Architecture Identification: Identify and explain the architecture style used in the application.
+
+Scalability Assessment: Evaluate how well the application's architecture aligns with scalability principles.
+
+Maintainability Assessment: Evaluate how well the application's architecture aligns with maintainability principles.
+
+Analysis and Discussion: Discuss the strengths and weaknesses of the application's architecture in terms of scalability and maintainability.
+
+Recommendations: Propose recommendations or improvements to enhance scalability and maintainability.
+
+Conclusion: Summarize the key findings and insights from the analysis.
+
+Ethical Considerations: Discuss any ethical considerations related to the analysis of the selected case study, such as respecting intellectual property rights and confidentiality.
+
+Submission: Students should submit their report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Case Study Selection: The relevance and significance of the selected case study.
+Architecture Identification: The accuracy of identifying the architecture style used in the application.
+Scalability Assessment: The quality of the evaluation of scalability aspects.
+Maintainability Assessment: The quality of the evaluation of maintainability aspects.
+Analysis and Recommendations: The depth and clarity of the analysis and the appropriateness of recommendations.
+Report Quality: The clarity, organization, and completeness of the report.
+Ethical Considerations: The understanding and application of ethical considerations in the analysis.

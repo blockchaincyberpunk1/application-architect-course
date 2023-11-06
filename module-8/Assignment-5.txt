@@ -1,0 +1,41 @@
+Infrastructure as Code (IaC) Best Practices
+
+Objective: The objective of this assignment is to explore and understand the best practices for effectively using Infrastructure as Code (IaC). Students will research and summarize key best practices for writing maintainable and efficient IaC scripts. Additionally, they will identify common mistakes or anti-patterns in IaC development and provide recommendations for avoiding them. This assignment aims to reinforce the importance of following industry best practices when working with IaC.
+
+Instructions:
+
+Part 1: Research Best Practices
+
+Research: Conduct research to identify and understand best practices for writing IaC scripts. You can refer to official documentation, reputable online resources, and industry publications. Focus on aspects related to maintainability, efficiency, and reliability.
+
+Summary: Summarize the key best practices you have identified in a clear and organized manner. Ensure that you cover a range of topics related to IaC, such as resource organization, modularity, versioning, and security.
+
+Part 2: Common Mistakes and Recommendations
+
+Identify Mistakes: Identify common mistakes or anti-patterns that developers often encounter when working with IaC. These could include issues related to configuration, resource management, or scripting practices.
+
+Recommendations: For each identified mistake or anti-pattern, provide practical recommendations on how to avoid or mitigate it. Offer insights and examples to illustrate the importance of following these recommendations.
+
+Part 3: Assignment Document
+
+Assignment Document: Create a well-structured assignment document that includes the following sections:
+
+Introduction: Briefly introduce the importance of IaC best practices and the significance of avoiding common mistakes.
+
+Best Practices: Present a list of the best practices you researched. Organize them into categories or sections for clarity.
+
+Common Mistakes: Describe common IaC mistakes and anti-patterns, explaining why they can be problematic.
+
+Recommendations: Provide detailed recommendations for each identified mistake, along with examples or scenarios where they apply.
+
+Conclusion: Summarize the key takeaways from the assignment and emphasize the importance of following IaC best practices.
+
+Part 4: Submission and Evaluation
+
+Submission: Students should submit their IaC Best Practices assignment as a well-formatted document (e.g., PDF) by [Due Date] at [Due Time].
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Research and Best Practices: The quality and relevance of the researched IaC best practices.
+Identification of Mistakes: The accuracy and insightfulness of the identified common mistakes or anti-patterns.
+Recommendations: The clarity and practicality of the recommendations provided for avoiding or mitigating mistakes.
+Document Organization: The overall organization and clarity of the assignment document.

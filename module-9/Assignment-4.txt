@@ -1,0 +1,40 @@
+Tutorial Exploration
+
+Objective: The objective of this assignment is to encourage students to explore emerging technologies and approaches in software architecture through hands-on tutorials. By completing a tutorial related to a new technology or concept, students will gain practical experience and insights that can inform their architectural decisions.
+
+Instructions:
+
+Part 1: Tutorial Selection
+
+Choose a Tutorial: Select an online tutorial or learning resource that introduces a new technology or approach relevant to software architecture. The tutorial should be recent and cover a topic you find interesting and potentially valuable for software architecture (e.g., microservices, serverless computing, containerization).
+
+Ensure that the tutorial is from a reputable source, such as official documentation, a trusted tutorial platform, or a well-known technology blog.
+Part 2: Tutorial Exploration
+
+Follow the Tutorial: Go through the selected tutorial step by step. Implement the instructions provided and gain hands-on experience with the technology or concept. Take notes during your learning process.
+
+Hands-On Experience: As you work through the tutorial, pay attention to the following:
+
+Practical Challenges: Note any challenges or difficulties you encounter while following the tutorial.
+Key Concepts: Identify and understand the key concepts, terminology, and best practices associated with the technology.
+Insights and Benefits: Reflect on the potential benefits and use cases of the technology in software architecture.
+Part 3: Summary and Reflection
+
+Summary: Write a summary of your experience with the tutorial. Include the following:
+
+A brief overview of the tutorial, including its title and source.
+A description of the technology or approach covered in the tutorial.
+A summary of the steps you followed and the results you achieved.
+Challenges and Insights: Discuss any challenges you faced during the tutorial and how you overcame them. Share any insights or "aha" moments you had while working with the technology.
+
+Application to Software Architecture: Reflect on how the technology or approach you learned about in the tutorial could be applied to software architecture. Consider the potential impact on architectural decisions, scalability, or other architectural aspects.
+
+Part 4: Submission and Evaluation
+
+Submission: Students should submit their tutorial exploration summary as a well-structured document (e.g., PDF) by [Due Date] at [Due Time].
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Tutorial Selection: The choice of a relevant and recent tutorial.
+Hands-On Experience: The depth and quality of your hands-on experience and learning.
+Summary and Reflection: The clarity and insightfulness of your summary and reflections.
+Application to Software Architecture: The relevance and thoughtfulness of your insights related to software architecture.

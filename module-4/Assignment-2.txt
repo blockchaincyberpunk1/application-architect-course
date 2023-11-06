@@ -1,0 +1,37 @@
+Relational vs. NoSQL Databases
+
+Objective: The objective of this assignment is to explore the differences between relational and NoSQL databases, emphasizing their characteristics, use cases, and trade-offs. Students will describe the characteristics and use cases of relational databases and NoSQL databases, including document-based, key-value, and graph databases. They will provide examples of scenarios where each type of database is most appropriate.
+
+Instructions:
+
+Relational Databases:
+
+Introduction to Relational Databases: Begin by introducing students to the concept of relational databases. Explain that relational databases are structured databases that use tables to store and manage data. Emphasize their use of SQL (Structured Query Language) for data manipulation.
+
+Characteristics of Relational Databases: Describe the key characteristics of relational databases, including the use of tables, rows, and columns to represent data. Mention features like data integrity, ACID (Atomicity, Consistency, Isolation, Durability) transactions, and support for complex queries.
+
+Use Cases: Provide examples of scenarios or applications where relational databases are most suitable. Discuss why relational databases excel in these use cases.
+
+NoSQL Databases:
+
+Introduction to NoSQL Databases: Introduce students to the concept of NoSQL databases. Explain that NoSQL databases are non-relational databases that offer more flexibility in data modeling and storage.
+
+Types of NoSQL Databases: Describe different types of NoSQL databases, including document-based (e.g., MongoDB), key-value (e.g., Redis), and graph databases (e.g., Neo4j). Explain the unique characteristics and data models of each type.
+
+Use Cases: Provide examples of scenarios or applications where each type of NoSQL database is most appropriate. Discuss the advantages of using NoSQL databases in these use cases.
+
+Comparison and Trade-offs:
+
+Comparison: Instruct students to compare and contrast relational and NoSQL databases. They should consider factors such as data structure, scalability, and ease of use.
+
+Trade-offs: Discuss the trade-offs involved in choosing between relational and NoSQL databases. Students should explain why one type of database may be preferred over the other based on specific project requirements.
+
+Conclusion: Summarize the key points of the assignment and conclude by highlighting that the choice between relational and NoSQL databases depends on factors like data structure, scalability needs, and project objectives.
+
+Submission: Students should submit their analysis of relational and NoSQL databases as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Comparison: The depth and accuracy of the comparison between relational and NoSQL databases.
+Clarity: The clarity and organization of the document, including clear explanations and appropriate use of examples.
+Relevance: The relevance of the information provided to the context of database selection and architecture.

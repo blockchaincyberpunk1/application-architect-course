@@ -1,0 +1,35 @@
+Component Identification
+
+Objective: The objective of this assignment is to develop an understanding of the various components that make up a software application. Students will choose a popular web application or mobile app (e.g., Twitter, Airbnb) and analyze and identify the different components that constitute the chosen application. They will provide a breakdown of these components to gain insight into the software's architecture.
+
+Instructions:
+
+Application Selection:
+
+Choose a Popular Application: Instruct students to select a well-known and widely used web application or mobile app (e.g., Twitter, Airbnb, Instagram, Gmail).
+Component Identification:
+
+Analyze and Identify Components: Ask students to analyze the chosen application and identify the various components that make up its architecture. Components may include but are not limited to:
+
+Databases: Identify the databases used for storing user data, content, configurations, etc. Provide details on the type of databases and their roles.
+
+APIs (Application Programming Interfaces): Identify and describe the APIs used by the application, both for internal communication between components and for third-party integrations.
+
+Front-End Interfaces: Explore and describe the front-end interfaces, including web pages, mobile app screens, and user interfaces.
+
+Back-End Services: Identify and describe the back-end services responsible for processing requests, managing data, and executing business logic.
+
+Third-Party Services: Recognize and explain any third-party services or tools integrated into the application (e.g., payment gateways, authentication providers).
+
+Documentation: Instruct students to document their findings in a report format. The report should include:
+
+An introduction explaining the purpose of the assignment and the selected application.
+A detailed breakdown of the identified components, including their roles and interactions.
+Diagrams or visual aids (if applicable) to illustrate the architecture.
+Submission: Students should submit their report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Application Selection: The choice of a popular and relevant web application or mobile app.
+Component Identification: The accuracy and depth of identification and description of application components.
+Documentation Quality: The clarity, organization, and completeness of the report.

@@ -1,0 +1,36 @@
+Introduction to Cloud Computing
+
+Objective: The objective of this assignment is to provide students with a foundational understanding of cloud computing concepts and familiarize them with major cloud service providers. Students will learn about the key characteristics of cloud computing and the different service models, as well as gain insights into the offerings, global presence, and unique features of prominent cloud service providers.
+
+Instructions:
+
+Part 1: Introduction to Cloud Computing Concepts
+
+Cloud Computing Fundamentals: Begin by explaining the core concepts of cloud computing, including its definition and significance in modern IT. Discuss how cloud computing has transformed the way organizations acquire and manage IT resources.
+
+Key Characteristics: Describe the key characteristics of cloud computing, such as on-demand self-service, resource pooling, scalability, and measured service. Explain why these characteristics make cloud computing a compelling model for businesses.
+
+Service Models: Introduce the three primary service models in cloud computing: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Explain the distinctions between these models and provide examples of services within each category.
+
+Part 2: Overview of Major Cloud Service Providers
+
+Amazon Web Services (AWS): Provide an overview of AWS, discussing its history, global presence, and the range of services it offers. Highlight unique features or services that distinguish AWS from other providers.
+
+Microsoft Azure: Introduce Microsoft Azure as a cloud service provider, including its background, geographical coverage, and service portfolio. Mention any specific Azure features or integrations with Microsoft products.
+
+Google Cloud Platform (GCP): Explore Google Cloud Platform as a cloud provider, covering its origins, geographic reach, and notable services. Emphasize any Google-specific technologies or strengths.
+
+Comparative Analysis:
+
+Comparing Cloud Providers: Offer a comparative analysis of the three cloud service providers. Discuss their strengths, weaknesses, and areas of specialization. Include factors such as pricing, service diversity, compliance certifications, and industry use cases.
+Conclusion:
+
+Summary: Summarize the key takeaways from the assignment, highlighting the fundamental concepts of cloud computing and the distinct offerings of major cloud service providers.
+
+Submission: Students should submit their Introduction to Cloud Computing assignment as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated regarding cloud computing fundamentals and service models.
+Research: The quality and relevance of information provided about major cloud service providers.
+Comparative Analysis: The effectiveness of the comparative analysis in highlighting differences between cloud providers.

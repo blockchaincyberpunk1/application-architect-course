@@ -1,0 +1,32 @@
+Authorization
+
+Objective: The objective of this assignment is to delve into authorization concepts in application security. Students will define authorization, its importance in controlling access to resources, and explore two key authorization models: Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC). Understanding authorization is crucial for architects to ensure secure resource access within applications.
+
+Instructions:
+
+Introduction to Authorization:
+
+Significance of Authorization: Begin by explaining the importance of authorization in application security. Discuss how it complements authentication by controlling what authenticated users can and cannot do within an application.
+Authorization Models:
+
+Role-Based Access Control (RBAC): Describe the Role-Based Access Control (RBAC) model. Explain how RBAC assigns permissions based on roles and how roles are associated with users or groups. Provide examples to illustrate how RBAC works in practice.
+
+Attribute-Based Access Control (ABAC): Explain the Attribute-Based Access Control (ABAC) model. Describe how ABAC considers various attributes (e.g., user attributes, resource attributes, environmental attributes) to make access decisions. Provide real-world scenarios to demonstrate ABAC's flexibility.
+
+Comparison and Contrast:
+
+Comparison: Compare and contrast RBAC and ABAC in terms of their authorization approach, complexity, scalability, and suitability for different scenarios. Discuss scenarios where each model excels.
+Authorization in Practice:
+
+Real-World Application: Present a hypothetical real-world application scenario (e.g., an online banking platform or healthcare record system). Describe how you would implement either RBAC or ABAC to control access to sensitive data or functionalities. Explain your choice of model and justify it based on the application's requirements.
+Conclusion:
+
+Summary: Summarize the key points discussed in the assignment, emphasizing the role of authorization in securing applications and the differences between RBAC and ABAC.
+
+Submission: Students should submit their analysis of authorization concepts as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated regarding authorization concepts and the ability to compare RBAC and ABAC.
+Clarity: The clarity and organization of the document, including clear explanations of RBAC and ABAC.
+Application: The ability to apply authorization concepts to a real-world application scenario and justify the choice of authorization model.

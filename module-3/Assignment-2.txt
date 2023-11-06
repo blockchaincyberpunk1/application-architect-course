@@ -1,0 +1,33 @@
+API Design Principles
+
+Objective: The objective of this assignment is to study API (Application Programming Interface) design principles and best practices. Students will explore the concept of APIs and their significance in modern software development. They will research and describe key API design principles, including RESTful architecture, GraphQL, and versioning strategies.
+
+Instructions:
+
+API Design Principles:
+
+Introduction to APIs: Begin by introducing the concept of APIs (Application Programming Interfaces) and their role in software development. Explain why APIs are essential in creating scalable and interoperable systems.
+
+Research API Design Principles: Instruct students to research and study key API design principles and best practices. Focus on the following areas:
+
+RESTful Architecture: Explain the principles of Representational State Transfer (REST) and how it guides the design of RESTful APIs. Discuss the key concepts of resources, HTTP methods, and statelessness.
+
+GraphQL: Describe what GraphQL is and how it differs from REST. Explain the advantages of GraphQL in enabling flexible and efficient data retrieval.
+
+Versioning Strategies: Explore different strategies for versioning APIs to ensure backward compatibility while evolving the API over time. Discuss URL versioning, custom headers, and semantic versioning.
+
+Benefits and Trade-offs: For each design principle and approach studied, encourage students to discuss the benefits and potential trade-offs. Consider factors like simplicity, scalability, flexibility, and ease of maintenance.
+
+Documentation: Instruct students to compile their research findings into a well-structured document. The document should include:
+
+An introduction to APIs and their importance.
+An explanation of each API design principle, including its core concepts.
+A discussion of the benefits and trade-offs associated with each principle.
+Examples or use cases that illustrate the application of each principle.
+Submission: Students should submit their document as a file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated in explaining API design principles and their significance.
+Research Quality: The accuracy and relevance of the research findings.
+Documentation Clarity: The clarity, organization, and completeness of the document.

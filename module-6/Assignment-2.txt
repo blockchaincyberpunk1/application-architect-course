@@ -1,0 +1,31 @@
+Authentication Mechanisms
+
+Objective: The objective of this assignment is to explore the importance of authentication in securing applications and to understand various authentication mechanisms. Students will compare and contrast three authentication methods—username/password, OAuth 2.0, and multi-factor authentication (MFA). This assignment provides essential knowledge for architecting secure systems.
+
+Instructions:
+
+Introduction to Authentication:
+
+Significance of Authentication: Begin by explaining why authentication is crucial for securing applications. Discuss how it ensures that only authorized users access specific resources or functionalities.
+Authentication Mechanisms:
+
+Username/Password: Describe the traditional username/password authentication method. Explain how it works, its advantages, and its vulnerabilities. Discuss common security practices like salting and hashing passwords.
+
+OAuth 2.0: Explain the OAuth 2.0 authentication mechanism, emphasizing its use in allowing third-party applications to access user data without exposing credentials. Discuss the OAuth 2.0 flow (e.g., authorization code flow) and its advantages and security considerations.
+
+Multi-Factor Authentication (MFA): Describe multi-factor authentication (MFA) and its role in enhancing security by requiring multiple forms of verification. Explain various factors (e.g., something you know, something you have, something you are) and how MFA combines them for authentication. Discuss its benefits and potential challenges.
+
+Comparison and Contrast:
+
+Strengths and Weaknesses: Compare and contrast the strengths and weaknesses of the three authentication mechanisms discussed. Discuss scenarios where each method is most suitable and any trade-offs involved in their implementation.
+Conclusion:
+
+Summary: Summarize the key takeaways from the assignment, emphasizing the importance of authentication in application security and the distinct characteristics of username/password, OAuth 2.0, and MFA.
+
+Submission: Students should submit their analysis of authentication mechanisms as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated regarding the significance of authentication and the ability to compare and contrast authentication mechanisms.
+Clarity: The clarity and organization of the document, including clear explanations of the strengths and weaknesses of each authentication method.
+Relevance: The relevance of the discussed authentication mechanisms to real-world application security.

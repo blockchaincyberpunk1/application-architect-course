@@ -1,0 +1,33 @@
+Software Architecture Conference Research
+
+Objective: The objective of this assignment is to familiarize students with the latest trends, insights, and emerging concepts in software architecture by researching and summarizing keynote presentations or talks from recent software architecture conferences or events. This assignment aims to help students stay updated with industry developments and gain a deeper understanding of contemporary architectural practices.
+
+Instructions:
+
+Part 1: Conference Selection
+
+Choose a Conference: Select a recent software architecture conference or event that you find interesting and relevant to the field of software architecture. Examples of such conferences include the O'Reilly Software Architecture Conference, GOTO Conference, or any other reputable conference of your choice. Ensure that the conference you choose has recent keynote presentations or talks available for research.
+Part 2: Research and Summary
+
+Research Presentations: Explore the conference's official website or other trusted sources to identify keynote presentations or talks from the selected event. Look for sessions that cover software architecture-related topics, modern architectural practices, emerging technologies, or industry trends.
+
+Select Key Presentations: Choose at least two keynote presentations or talks from the conference that you find most compelling and relevant to software architecture.
+
+Summarize Key Takeaways: For each selected presentation, provide a summary that includes:
+
+The title and speaker of the presentation.
+A brief overview of the presentation's context and objectives.
+Key takeaways and insights presented by the speaker.
+Any emerging trends or innovative architectural practices discussed.
+Part 3: Reflection
+
+Reflect on Insights: After summarizing the selected presentations, reflect on the insights you gained from the conference. Discuss how the information you gathered might impact your understanding of software architecture or influence your architectural decisions.
+Part 4: Submission and Evaluation
+
+Submission: Students should submit their research summaries and reflection as a well-structured document (e.g., PDF) by [Due Date] at [Due Time].
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Conference Selection: The choice of a relevant and recent software architecture conference.
+Quality of Summaries: The clarity, completeness, and accuracy of your summaries.
+Reflection: The depth and relevance of your reflection on the insights gained.
+Relevance to Software Architecture: The extent to which the selected presentations and insights relate to software architecture topics.

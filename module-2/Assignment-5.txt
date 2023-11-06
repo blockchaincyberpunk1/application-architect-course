@@ -1,0 +1,39 @@
+Design Pattern Comparison
+
+Objective: The objective of this assignment is to compare and contrast different design patterns for solving a specific software design problem. Students will identify a practical software design problem (e.g., implementing a caching mechanism) and analyze and compare multiple design patterns (e.g., Singleton, Flyweight, Prototype) that could be used to address the problem. They will discuss the advantages, disadvantages, and trade-offs of each pattern in the given context.
+
+Instructions:
+
+Problem Identification:
+
+Select a Practical Problem: Instruct students to choose a specific software design problem that requires a design pattern solution (e.g., implementing a caching mechanism, managing object creation).
+Design Pattern Comparison:
+
+Choose Multiple Design Patterns: Ask students to select and analyze at least three different design patterns (e.g., Singleton, Flyweight, Prototype) that could be applied to solve the chosen problem.
+
+Analysis and Comparison: For each chosen design pattern, students should provide a detailed analysis that includes:
+
+a. Explanation: Describe how the design pattern works and how it can be applied to address the problem.
+
+b. Advantages: Discuss the advantages and benefits of using the design pattern in the given context. Explain how it helps in solving the problem efficiently.
+
+c. Disadvantages: Highlight any disadvantages or limitations of the design pattern in the context of the problem. Discuss potential drawbacks or trade-offs.
+
+d. Use Cases: Provide real-world use cases or scenarios where the design pattern is commonly applied.
+
+e. Trade-offs: Compare and contrast the chosen design patterns. Discuss the trade-offs involved in selecting one pattern over another for the specific problem.
+
+Documentation: Instruct students to document their analysis in a report format. The report should include:
+
+An introduction explaining the selected problem and the purpose of the assignment.
+Detailed analysis and comparison of each chosen design pattern.
+Real-world use cases and examples (if available).
+A conclusion summarizing the key findings and recommendations.
+Submission: Students should submit their report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Problem Identification: The selection of a practical software design problem and the clarity of its description.
+Design Pattern Selection: The selection of at least three different design patterns and their relevance to the problem.
+Analysis and Comparison: The depth of analysis, including explanations, advantages, disadvantages, use cases, and trade-offs of each design pattern.
+Documentation Quality: The clarity, organization, and completeness of the report.

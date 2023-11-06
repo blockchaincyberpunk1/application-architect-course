@@ -1,0 +1,51 @@
+SOLID Principles Analysis
+
+Objective: The objective of this assignment is to study and analyze the SOLID principles in software design. Students are expected to explain each of the SOLID principles (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) in detail and provide real-world examples or code snippets that illustrate the application of each SOLID principle in software design.
+
+Instructions:
+
+SOLID Principles Analysis:
+
+Concept Introduction: Begin by introducing the concept of SOLID principles in software design. Explain that these principles are guidelines for writing clean, maintainable, and flexible code.
+
+Explanation of SOLID Principles: Instruct students to provide a detailed explanation of each of the five SOLID principles:
+
+a. Single Responsibility Principle (SRP): Explain what SRP is and why it is important in software design. Provide examples or scenarios where SRP can be applied to achieve code that adheres to this principle.
+
+b. Open-Closed Principle (OCP): Explain what OCP is and why it is valuable in software design. Present examples or code snippets that demonstrate how the OCP can be implemented in practice.
+
+c. Liskov Substitution Principle (LSP): Explain what LSP means and its significance in object-oriented programming. Provide real-world examples or code excerpts that illustrate the correct usage of LSP.
+
+d. Interface Segregation Principle (ISP): Elaborate on the ISP and its role in designing interfaces. Offer real-world scenarios or code samples where ISP is applied effectively.
+
+e. Dependency Inversion Principle (DIP): Describe DIP and its relevance in managing dependencies in software systems. Offer practical examples or code fragments that showcase the application of DIP.
+
+Real-World Examples: Instruct students to provide real-world examples or code snippets for each SOLID principle. These examples should be detailed and clearly demonstrate how the respective principle is implemented.
+
+Analysis: Encourage students to analyze the importance of each SOLID principle in software design and discuss the benefits it brings in terms of maintainability, extensibility, and code quality.
+
+Code Review: Invite students to perform a code review of existing code or open-source projects, focusing on identifying violations or adherence to SOLID principles. They should document their findings and suggestions for improvement.
+
+Report Creation: Instruct students to create a comprehensive report that covers the following sections:
+
+Introduction: Provide an introduction to the assignment's objective and the significance of SOLID principles.
+
+Explanation of SOLID Principles: Explain each SOLID principle in detail.
+
+Real-World Examples: Present real-world examples or code snippets for each SOLID principle.
+
+Analysis: Analyze the importance and benefits of SOLID principles in software design.
+
+Code Review: Summarize the results of the code review, including identified violations and recommendations.
+
+Conclusion: Summarize the key takeaways from the analysis and code review.
+
+Submission: Students should submit their report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Explanation of SOLID Principles: The clarity and depth of explanation for each SOLID principle.
+Real-World Examples: The quality and relevance of the real-world examples or code snippets provided.
+Analysis: The quality of the analysis and the ability to articulate the importance of SOLID principles.
+Code Review: The effectiveness of the code review, including identifying violations and offering constructive recommendations.
+Report Quality: The clarity, organization, and completeness of the report.

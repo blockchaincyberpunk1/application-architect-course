@@ -1,0 +1,36 @@
+Design Pattern Application
+
+Objective: The objective of this assignment is to apply a design pattern to solve a practical software design problem. Students will identify a real-world software design problem (e.g., managing configuration settings, handling user authentication) and choose an appropriate design pattern (e.g., factory pattern, observer pattern) studied in the course to demonstrate how it can be applied effectively to address the problem.
+
+Instructions:
+
+Problem Identification:
+
+Select a Practical Problem: Instruct students to choose a specific software design problem that can benefit from the application of a design pattern. They should briefly describe the problem, providing context for their solution.
+Design Pattern Selection:
+
+Choose a Design Pattern: Ask students to select one of the design patterns studied in the course (e.g., factory pattern, observer pattern) that is appropriate for solving the chosen problem. They should provide a brief explanation of why they believe this design pattern is suitable for the problem.
+Design Pattern Application:
+
+Apply the Design Pattern: Instruct students to apply the chosen design pattern to solve the identified problem. They should provide:
+
+a. Code Examples: If applicable, students should provide code examples or pseudocode to demonstrate how the design pattern is implemented to address the problem. Code should be clear, well-commented, and easy to understand.
+
+b. Diagrams: Use diagrams or visual representations to illustrate the structure and relationships within the applied design pattern and how it integrates with the solution.
+
+c. Explanation: Include a detailed explanation of how the design pattern is utilized in the solution. Discuss how it helps solve the problem, improve code organization, or enhance system flexibility.
+
+Documentation: Instruct students to document their solution in a report format. The report should include:
+
+An introduction explaining the selected problem and design pattern.
+Code examples or diagrams illustrating the application of the design pattern.
+A detailed explanation of how the design pattern addresses the problem.
+A conclusion summarizing the benefits of applying the design pattern in the solution.
+Submission: Students should submit their report along with any code examples or diagrams as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Problem Identification: The selection of a practical software design problem and the clarity of its description.
+Design Pattern Selection: The rationale for choosing the specific design pattern for the problem.
+Design Pattern Application: The effectiveness of applying the design pattern to the problem, demonstrated through code examples, diagrams, and explanations.
+Documentation Quality: The clarity, organization, and completeness of the report.

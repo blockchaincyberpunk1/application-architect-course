@@ -1,0 +1,47 @@
+Vertical vs. Horizontal Scaling
+
+Objective: The objective of this assignment is to deepen students' understanding of scalability techniques by comparing and contrasting two fundamental approaches: vertical scaling (scaling up) and horizontal scaling (scaling out). Students will explore the differences, advantages, limitations, and scenarios where one approach is preferred over the other.
+
+Instructions:
+
+Introduction to Scaling:
+
+Defining Vertical Scaling and Horizontal Scaling: Start by defining the concepts of vertical scaling (scaling up) and horizontal scaling (scaling out) in the context of application architecture. Explain how each approach aims to address scalability challenges.
+
+Importance of Scalability: Discuss why scalability is a critical consideration in modern application design and why architects need to choose the right scaling strategy.
+
+Vertical Scaling (Scaling Up):
+
+Explanation: Provide a detailed explanation of vertical scaling, emphasizing that it involves increasing the resources (e.g., CPU, memory) of existing servers or instances to handle increased workloads.
+
+Advantages: Enumerate the advantages of vertical scaling, such as simplicity, resource consolidation, and ease of management. Include real-world examples where vertical scaling is effective.
+
+Horizontal Scaling (Scaling Out):
+
+Explanation: Describe horizontal scaling, emphasizing that it involves adding more servers or nodes to a system to distribute the workload.
+
+Advantages: List the advantages of horizontal scaling, including fault tolerance, improved performance through parallel processing, and cost-effectiveness. Provide real-world examples where horizontal scaling is beneficial.
+
+Comparing Vertical and Horizontal Scaling:
+
+Differences: Highlight the key differences between vertical and horizontal scaling, such as resource allocation, cost implications, and complexity.
+
+Advantages and Limitations: Discuss the advantages and limitations of each approach. Consider factors like scalability limits, cost-effectiveness, and ease of implementation.
+
+Scenarios and Use Cases:
+
+When to Use Vertical Scaling: Provide scenarios or use cases where vertical scaling is the preferred choice. Explain why vertical scaling makes sense in these contexts.
+
+When to Use Horizontal Scaling: Provide scenarios or use cases where horizontal scaling is the preferred choice. Explain why horizontal scaling is suitable in these situations.
+
+Conclusion:
+
+Summary: Summarize the key points covered in the assignment, highlighting the distinctions between vertical and horizontal scaling and their relevance in designing scalable application architectures.
+
+Submission: Students should submit their analysis of vertical vs. horizontal scaling as a document (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding: The depth of understanding demonstrated regarding vertical and horizontal scaling and their differences.
+Clarity: The clarity and organization of the document, including clear explanations and well-structured comparisons.
+Relevance: The relevance of the information provided to the context of choosing a scaling approach in application architecture.
